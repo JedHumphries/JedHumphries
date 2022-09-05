@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jed</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="" width="400" src="https://media2.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=790b7611cabbf52b571c3c44951baff34beb96cee6fe00c0&rid=giphy.gif&ct=g">
+<img align="right" alt="" width="400" src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=790b761114739f4f09130650530f68fdf936a4d3fb6d6283&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedhumphries&label=Profile%20views&color=0e75b6&style=flat" alt="jedhumphries" /> </p>
 
 - 🔭 I’m currently working on **getting a job**
