@@ -1,3 +1,4 @@
+[![MasterHead]()](https://static01.nyt.com/images/2022/09/01/business/00roose-1/merlin_212276709_3104aef5-3dc4-4288-bb44-9e5624db0b37-superJumbo.jpg?quality=75&auto=webp)
 <h1 align="center">Hi 👋, I'm Jed</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="" width="400" src="https://64.media.tumblr.com/eba1b0ae551b5bd85ef4676bfd6dac72/tumblr_n4y13yheWf1txvglio1_500.gif">
