@@ -3,7 +3,7 @@
 <img align="right" alt="" width="400" src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=790b761114739f4f09130650530f68fdf936a4d3fb6d6283&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedhumphries&label=Profile%20views&color=0e75b6&style=flat" alt="jedhumphries" /> </p>
 
-- 🔭 I’m currently working on **getting a job**
+- 🔭 I’m currently working on.....
 
 - 👯 I’m looking to collaborate on **anything, just ask**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **LinkedIn**
 
-- ⚡ Fun fact **I have done a 10,000ft skydive**
+- ⚡ Fun fact **In a room of just 23 people there's a 50/50 chance of at least two people having the same birthday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
